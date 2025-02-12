@@ -75,7 +75,3 @@ View the model predictions printed to the console.
 - Ensure the dataset ```houses.csv``` is correctly formatted with numerical columns, where the first column is the target variable.
 - Adjust the learning rate ```lr``` and epochs to fine-tune model performance.
 
-## License
--This project is open-source under the MIT License.
--Feel free to contribute or suggest improvements! 😊
-
